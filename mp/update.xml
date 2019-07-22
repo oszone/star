@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>StarSSR</title>
+<item>
+<title>1.0.1</title>
+<pubDate>Thu, 18 Jul 2019 10:38:42 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+<enclosure url="https://appzone.gitee.io/ss/StarSS.zip" sparkle:version="14" sparkle:shortVersionString="1.0.1" length="23598764" type="application/octet-stream" sparkle:edSignature="5PG5qz8TwHuxhVKak6QalLGE667K4b/ifNU/KFPBA+o+AiXzXzNmqpsU8BSR6SxAog2el/eA4ydgSWdPGpnKCQ=="/>
+</item>
+</channel></rss>
