@@ -2,9 +2,9 @@
 <channel>
 <title>StarSSR</title>
 <item>
-<title>1.0.4</title>
-<pubDate>周二, 23 7月 2019 10:33:40 +0800</pubDate>
+<title>1.0.5</title>
+<pubDate>周二, 23 7月 2019 16:50:34 +0800</pubDate>
 <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-<enclosure url="https://oszone.github.io/star/mp/StarSSR%201.0.4.dmg" sparkle:version="21" sparkle:shortVersionString="1.0.4" length="21647325" type="application/octet-stream" sparkle:edSignature="xr+4LvUyw1zm4hBJ0iAdPNB6FFNsfW1wEF5vg76C+/3+UVMRf4AY8Kjnh4VHmHY7PIXqwBrgCv2aSVv02EK9DA=="/>
+<enclosure url="https://oszone.github.io/star/mp/StarSSR%201.0.5.dmg" sparkle:version="22" sparkle:shortVersionString="1.0.5" length="21649914" type="application/octet-stream" sparkle:edSignature="hJRWxol5X0lfQth3OMXLFKMBm6dxYeNE+hGIQwTsNoz2VMa3evasqFRLqM8Olz5gE1dzmL4c4zXW75cP/N3fDg=="/>
 </item>
 </channel></rss>
