@@ -2,16 +2,9 @@
 <channel>
 <title>StarSSR</title>
 <item>
-<title>1.0.3</title>
-<pubDate>Mon, 22 Jul 2019 15:37:50 +0800</pubDate>
-<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-<enclosure url="https://oszone.github.io/star/mp/StarSSR%201.0.3.dmg" sparkle:version="20" sparkle:shortVersionString="1.0.3" length="21647346" type="application/octet-stream" sparkle:edSignature="Bz4lbuoVr7VYa2iz+/4JAmkt2LcSrRoJjOccGQTcc/SaWWb029RsZ6E6OUkvVNVJVfO09w/T4aN8a3/RajdgDg=="/>
-</item>
-<item>
 <title>1.0.4</title>
-<pubDate>周二, 23 7月 2019 10:29:40 +0800</pubDate>
+<pubDate>周二, 23 7月 2019 10:33:40 +0800</pubDate>
 <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-<enclosure url="https://oszone.github.io/star/mp/StarSSR%201.0.4.dmg" sparkle:version="21" sparkle:shortVersionString="1.0.4" length="21646878" type="application/octet-stream" sparkle:edSignature="i75rPjYAgBiVZ1beDA6CAo6zp7Boudv9BBM4mij8KMf8DoOenDqzh3/w+BVigtUY5ZjR/c2UaaeGNTOp0HOWDA=="/>
+<enclosure url="https://oszone.github.io/star/mp/StarSSR%201.0.4.dmg" sparkle:version="21" sparkle:shortVersionString="1.0.4" length="21647325" type="application/octet-stream" sparkle:edSignature="xr+4LvUyw1zm4hBJ0iAdPNB6FFNsfW1wEF5vg76C+/3+UVMRf4AY8Kjnh4VHmHY7PIXqwBrgCv2aSVv02EK9DA=="/>
 </item>
-
 </channel></rss>
