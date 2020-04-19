@@ -3,28 +3,10 @@
     <channel>
         <title>StarSSR</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>周五, 19 7月 2019 03:00:54 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://appzone.gitee.io/ss/ssr.zip" sparkle:version="14" sparkle:shortVersionString="1.0.1" length="22347543" type="application/octet-stream" sparkle:edSignature="zO+T0zfTc9mZEYBMaCdUVIXR0AUNopUlgwEJHOSlCKc0B+7DyTXu1x7UVf/HEffu/9slcjH2/NVFjgCcBfyhAg=="/>
-        </item>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>周一, 09 12月 2019 11:29:18 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://oszone.github.io/star/mp/%E6%98%9F%E6%98%9F%E5%8A%A0%E9%80%9F.dmg" sparkle:version="27" sparkle:shortVersionString="1.1.1" length="21628643" type="application/octet-stream" sparkle:edSignature="qnJdTrAcVGutCOuyTpAKWZiRJYLyq1JIkEfvBDFEuQz5aCNsl0oTpm53JIg/FPtKBhvRShp6hyjbFhEE5CaOCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://oszone.github.io/star/mp/StarSSR27-14.delta" sparkle:version="27" sparkle:shortVersionString="1.1.1" sparkle:deltaFrom="14" length="2715688" type="application/octet-stream" sparkle:edSignature="tdBQtOWBqf8FknkTgyFy7a4EsZJ14AWJqYrDel4MLt9mne4Jc16wFemWQZSjmn1aNMxlsJbdUs0V7Cm96Mb3CQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
             <title>1.1.2</title>
-            <pubDate>周日, 19 4月 2020 18:53:04 +0800</pubDate>
+            <pubDate>周一, 20 4月 2020 03:18:39 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://oszone.github.io/star/mp/%E6%98%9F%E6%98%9F%E5%8A%A0%E9%80%9F.dmg" sparkle:version="28" sparkle:shortVersionString="1.1.2" length="21664209" type="application/octet-stream" sparkle:edSignature="3VkC1ymqzcHABfqM81fvDLhMRsf30/unkXmqYWSEprDv4mFYR7S1rbo7SFLcev+HSea8OnvZbfi+BLOZsSn3BQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://oszone.github.io/star/mp/StarSSR28-14.delta" sparkle:version="28" sparkle:shortVersionString="1.1.2" sparkle:deltaFrom="14" length="4320975" type="application/octet-stream" sparkle:edSignature="h+yH/3zSej2Uy9W2iejERcMVOqyVWfJrYpt04IklT56Qhx8QlpOh3xLICSaxsosTBDskOmf9DaRB6VCgl9TPAQ=="/>
-            </sparkle:deltas>
+            <enclosure url="https://oszone.github.io/star/mp/%E6%98%9F%E6%98%9F%E5%8A%A0%E9%80%9F.dmg" sparkle:version="28" sparkle:shortVersionString="1.1.2" length="21665579" type="application/octet-stream" sparkle:edSignature="bE85oEnZiMK4rfylNgeeFPnQsjzgXJiMh67HSw2e/sh6vW4b+CcD7E75jMaQweoJRw16idHvRh9XLm/q6hc0Cg=="/>
         </item>
     </channel>
 </rss>
