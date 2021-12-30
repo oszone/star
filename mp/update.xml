@@ -4,9 +4,9 @@
         <title>StarSSR</title>
         <item>
             <title>1.1.4</title>
-            <pubDate>Fri, 31 Dec 2021 01:13:52 +0800</pubDate>
+            <pubDate>Fri, 31 Dec 2021 02:26:05 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://oszone.github.io/star/mp/%E6%98%9F%E6%98%9F%E5%8A%A0%E9%80%9F.dmg" sparkle:version="37" sparkle:shortVersionString="1.1.4" length="25454790" type="application/octet-stream"/>
+            <enclosure url="https://oszone.github.io/star/mp/%E6%98%9F%E6%98%9F%E5%8A%A0%E9%80%9F%E5%99%A8.dmg" sparkle:version="39" sparkle:shortVersionString="1.1.4" length="25462020" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
