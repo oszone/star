@@ -3,16 +3,12 @@
     <channel>
         <title>StarSSR</title>
         <item>
-            <title>1.1.4</title>
-            <pubDate>Fri, 31 Dec 2021 02:26:05 +0800</pubDate>
+            <title>1.1.6</title>
+            <pubDate>Tue, 09 May 2023 15:40:22 +0800</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://oszone.github.io/star/mp/%E6%98%9F%E6%98%9F%E5%8A%A0%E9%80%9F%E5%99%A8.dmg" sparkle:version="39" sparkle:shortVersionString="1.1.4" length="25462020" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>1.1.5</title>
-            <pubDate>Sun, 02 Jan 2022 19:11:54 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://oszone.github.io/star/mp/%E6%98%9F%E6%98%9F%E5%8A%A0%E9%80%9F%E5%99%A8.dmg" sparkle:version="41" sparkle:shortVersionString="1.1.5" length="25459439" type="application/octet-stream"/>
+            <enclosure url="https://oszone.github.io/star/mp/%E6%98%9F%E6%98%9F%E5%8A%A0%E9%80%9F%E5%99%A8.dmg" length="26246581" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
